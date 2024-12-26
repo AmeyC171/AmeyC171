@@ -57,3 +57,9 @@
     <img src="https://komarev.com/ghpvc/?username=AmeyC171&color=blue&style=for-the-badge)" />
   </a>
 </p>
+
+<details>
+    <p align='center'>
+        <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmeyC171&theme=transparent'>
+    </p>
+</details>
