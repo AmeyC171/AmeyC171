@@ -1,8 +1,7 @@
 <p align="center">
     <b>Welcome to my GitHub profile!</b><br><br>
     <i>
-        I'm Ameya Sanjay Chopade.<br>
-        BTech CSE (AI & ML) Student @ PCET's Pimpri Chinchwad University.<br>
+        I'm Ameya Sanjay Chopade.
     </i>
 </p>
 
