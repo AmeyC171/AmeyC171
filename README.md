@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ameya%20Sanjay%20Chopade&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev&descAlign=50&descAlignY=62&descSize=20&descColor=ffffff" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Ameya%20Sanjay%20Chopade&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev&descAlign=50&descAlignY=62&descSize=20&descColor=ffffff" width="100%" alt="Header"/>
 
 <br/>
 
@@ -119,4 +119,4 @@ I'm a passionate AI Engineer focused on building production-ready intelligent sy
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer" width="100%" alt="Footer Wave"/>
