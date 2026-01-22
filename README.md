@@ -111,12 +111,6 @@ I'm a passionate AI Engineer focused on building production-ready intelligent sy
 
 ---
 
-<div align="center">
-
-**Crafting AI, inspired by the cosmos.**
-
-</div>
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer&text=Crafting%20AI%2C%20inspired%20by%20the%20cosmos&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%" alt="Footer Wave"/>
